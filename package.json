@@ -1,0 +1,14 @@
+{
+  "name": "girl-in-red",
+  "version": "1.0.0",
+  "description": "discord-bot-girl-in-red",
+  "main": "index.js",
+  "scripts": {
+    "test": "mnrbot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
